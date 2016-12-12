@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4241071837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af7176dc792f282d873ea10bf226846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 85d4ec38799c6f9e3b88252e99f57eef
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Variants/MyAssets-HD/someMaterial.mat
+- Assets/AssetBundleSample/SampleAssets/Variants/MyAssets-HD/myTexture.png
+- Assets/AssetBundleSample/SampleAssets/Variants/MyAssets-HD/unityLogo.png
+Dependencies: []
